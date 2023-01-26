@@ -1,8 +1,8 @@
 ### Opa, eu sou José! 🖖🏾
 
 - 👨🏾‍🚀 Eu sou um jovem brasileiro, apaixonado por astronomia e tecnologia. 
-- 🔭 Atualmente eu trabalho como estagiário de suporte técnico e estou estudando programação. 
-- 💬 Pergunte-me sobre tudo.
+- 🔭 Estudo programação fullstack, mas com enfâse no backend.
+- 💬 Este perfil foi criado com o objetivo de ser um perfil profissional e separá-lo de um perfil de estudo.
 <br>
 <div align="center">
   <a href="https://github.com/josefernandocunha">
